@@ -40,8 +40,8 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.exceptions import TelegramBadRequest
 
 # ============================ КОНФИГУРАЦИЯ ============================
-BOT_TOKEN = "сюда токен бота"  # вставь свой токен
-ADMIN_IDS = [айдишку сюда]  # Айди админов
+BOT_TOKEN = "8420254597:AAHnv72R9Apx8Knh-FCWdLbZYM3Mp2BnM9g"  # вставь свой токен
+ADMIN_IDS = [8727416659]  # Айди админов
 
 # Ссылки для конфига
 CHANNEL_LINK = "https://t.me/jobseo_channel"
